@@ -9,6 +9,7 @@ public class Greetings {
     @GetMapping("/hello")
     public String showGreetings()
     {
+        //Just added a comment
         return "Hello, how are you?";
     }
 }
