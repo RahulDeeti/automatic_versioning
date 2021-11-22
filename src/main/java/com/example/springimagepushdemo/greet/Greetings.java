@@ -11,6 +11,6 @@ public class Greetings {
     {
         //Just added a comment
         //Added comment to test how version of image stored in github
-        return "Hello, how are you?";
+        return "Hello User!, how are you?";
     }
 }
